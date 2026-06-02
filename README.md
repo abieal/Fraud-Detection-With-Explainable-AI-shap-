@@ -1,5 +1,4 @@
-# Fraud-Detection-With-Explainable-AI-shap-
-Credit Card Fraud Detection using Machine Learning and Explainable AI (SHAP) with interactive prediction, model evaluation, and feature importance analysis.
+
 # Fraud Detection with Explainable AI (SHAP)
 
 This project develops a machine learning-based fraud detection system capable of identifying fraudulent transactions while providing transparent and interpretable predictions through SHAP (SHapley Additive Explanations).
